@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.SingletonDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsTests", "DesignPatternsTests\DesignPatternsTests.csproj", "{C1E2AF59-86C7-4552-B055-16DA56CB8FB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatters.FactoryMethodDemo", "DesignPatters.FactoryMethodDemo\DesignPatters.FactoryMethodDemo.csproj", "{F9F9CC5D-6E68-482E-95D2-A7578C1628B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{C1E2AF59-86C7-4552-B055-16DA56CB8FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1E2AF59-86C7-4552-B055-16DA56CB8FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1E2AF59-86C7-4552-B055-16DA56CB8FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9F9CC5D-6E68-482E-95D2-A7578C1628B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F9CC5D-6E68-482E-95D2-A7578C1628B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F9CC5D-6E68-482E-95D2-A7578C1628B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F9CC5D-6E68-482E-95D2-A7578C1628B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

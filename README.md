@@ -16,7 +16,7 @@ Each pattern will have:
 | # | Pattern | Category | Status |
 |---|----------|-----------|--------|
 | 1 | [Singleton](#1-singleton-pattern) | Creational | ✅ Completed |
-| 2 | Factory Method | Creational | 🔜 Coming soon |
+| 2 | [Factory Method](#2-factory-method-pattern) | Creational | ✅ Completed |
 | 3 | Abstract Factory | Creational | 🔜 Coming soon |
 | … | *(More patterns will be added progressively)* | | |
 

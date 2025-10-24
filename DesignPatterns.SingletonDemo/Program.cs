@@ -36,7 +36,7 @@ app.MapGet("/parallel-check", () =>
     return new
     {
         Samples = bag.Count,
-        DistinctHashes = distinct, // deve ser 1
+        DistinctHashes = distinct,
         InstanceHash = bag.FirstOrDefault()
     };
 });
