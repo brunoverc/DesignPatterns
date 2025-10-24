@@ -33,6 +33,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\DesignPatterns.SingletonDemo\DesignPatterns.SingletonDemo.csproj" />
+      <ProjectReference Include="..\DesignPatters.FactoryMethodDemo\DesignPatters.FactoryMethodDemo.csproj" />
     </ItemGroup>
 
 </Project>
